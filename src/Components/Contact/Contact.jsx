@@ -44,7 +44,7 @@ function Contact() {
                     <i class="fa-solid fa-phone-volume"></i> +91 1234567890
                     </div>
                     <div className="contact-detail">
-                    <i class="fa-brands fa-linkedin"></i> LinkedIn
+                    <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/haider-ali-5701031a6">LinkedIn</a>
                     </div>
                     <div className="contact-detail">
                     <i class="fa-solid fa-location-dot"></i>  India
