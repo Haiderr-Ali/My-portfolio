@@ -97,6 +97,9 @@
     transform: scale(1.1);
     transition: 0.3s;
 }
+.contact-detail a{
+    text-decoration: none;
+}
 
 @media(max-width:768px){
     .contact{
