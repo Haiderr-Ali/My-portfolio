@@ -44,6 +44,9 @@ function Contact() {
                     <i class="fa-solid fa-phone-volume"></i> +91 1234567890
                     </div>
                     <div className="contact-detail">
+                    <i class="fa-brands fa-linkedin"></i> LinkedIn
+                    </div>
+                    <div className="contact-detail">
                     <i class="fa-solid fa-location-dot"></i>  India
                     </div>
                 </div>
