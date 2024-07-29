@@ -10,9 +10,9 @@ function Footer() {
           © 2024 Haider Ali. All rights reserved.
           </p>
           <div className="footer-bottom-right">
-            <p>Term of Services</p>
+            <p>Terms of use</p>
             <p>Privacy Policy</p>
-            <p>Connect with me</p>
+            <p>Contact</p>
           </div>
         </div>
       </div>
