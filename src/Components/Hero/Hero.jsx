@@ -8,7 +8,7 @@ function Hero() {
       <p>I  am a skilled front-end developer specializing in HTML, CSS, JavaScript, and React.js. I create responsive, user-friendly websites.</p>
       <div className="hero-action">
         <div className="hero-connect"><a href="https://github.com/Haiderr-Ali" target='_blank'>GitHub <i class="fa-brands fa-github"></i></a></div>
-        <div className="hero_resume"><a href="./Haider.pdf" target="_blank" rel="noopener noreferrer">My Resume  <i class="fa-regular fa-file"></i></a></div>
+        <div className="hero_resume"><a href="./Resume Haider Ali.pdf" target="_blank" rel="noopener noreferrer">My Resume  <i class="fa-regular fa-file"></i></a></div>
       </div>
     </div>
   )
